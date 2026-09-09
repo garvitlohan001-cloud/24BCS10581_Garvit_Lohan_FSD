@@ -128,9 +128,8 @@ This project is licensed under the MIT License.
 
 **Garvit Lohan**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
+- GitHub: https://github.com/garvitlohan001-cloud
+- Email: garvitlohan001@gmail.com
 
 ---
 
